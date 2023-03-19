@@ -36,7 +36,7 @@ public class PUNTO8 {
         int terminadosEn[]=numerosTerminados(num, ultimoNumero);
  
         //Mostramos el resultado con la funcion mostrar
-        mostrar(num);
+    
         mostrar(terminadosEn);
  
     }
